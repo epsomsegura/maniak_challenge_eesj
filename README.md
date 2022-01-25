@@ -502,7 +502,17 @@ Data dictionary is contained on <a href="/docs/dataDictionary.pdf">/docs/dataDic
 <img src="./docs/C4_code.png" >
 </center>
 
+
+<h2>Online demo</h2>
+<a href="https://maniakchallengeeesj.testproductpix.com/login" target="_BLANK">Go to online demo</a>
+<br>
 <br>
 <small>
-Developed by: <strong>Epsom Enrique Segura Jaramillo</strong>
+<ul>
+<li>Developed by: <strong>MSICU Epsom Enrique Segura Jaramillo</strong></li>
+<li>Email: <strong><a href="mailto:segurajaramilloepsom@gmail.com">segurajaramilloepsom@gmail.com</strong></a></li>
+<li>Phone: <strong><a href="tel:+522281760555">+52 (228)176 0555</a></strong></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/epsomsegura/">linkedin.com/in/epsomsegura/</a></li>
+</ul>
+
 </small>
