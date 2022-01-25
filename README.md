@@ -470,6 +470,38 @@ Test Rest API using this endpoints:
 
 </li>
 </ol>
+
+<h2>Database structure</h2>
+
+<h3>Relational model</h3>
+<center>
+<img src="./docs/relationModel.png" style="width:75%">
+</center>
+
+<h3>Dictionary</h3>
+Data dictionary is contained on <a href="/docs/dataDictionary.pdf">/docs/dataDictionary.pdf</a>
+
+<h2>C4 model for arquitecture</h2>
+<h3>Context</h3>
+<center>
+<img src="./docs/C4_context.png">
+</center>
+
+<h3>Container</h3>
+<center>
+<img src="./docs/C4_containers.png" >
+</center>
+
+<h3>Components</h3>
+<center>
+<img src="./docs/C4_components.png">
+</center>
+
+<h3>Code</h3>
+<center>
+<img src="./docs/C4_code.png" >
+</center>
+
 <br>
 <small>
 Developed by: <strong>Epsom Enrique Segura Jaramillo</strong>
